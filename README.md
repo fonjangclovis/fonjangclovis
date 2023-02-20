@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftomtaulli%2F2021%2F07%2F16%2Fdevops-what-you-need-to-know%2F&psig=AOvVaw0S0j5hPOuQbIeFI3ijIpds&ust=1676951024458000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC_psSXo_0CFQAAAAAdAAAAABAR" alt="cover" />
+<img width="75%" height = "250px" src="https://google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftomtaulli%2F2021%2F07%2F16%2Fdevops-what-you-need-to-know%2F&psig=AOvVaw0S0j5hPOuQbIeFI3ijIpds&ust=1676951024458000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC_psSXo_0CFQAAAAAdAAAAABAR" alt="cover" />
 </div>
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>

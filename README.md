@@ -6,8 +6,10 @@
 </p>
 <div size='20px'> Hello! i am Fonjang Clovis. A Cloud/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
-- 🔭 I’m currently working on Linux and DevOps Concepts/Projects 
+- 🔭 I’m currently working on Linux and DevOps Concepts/Projects
+-  
 - 👯 I’m looking to collaborate on Anything Cloud & DevOps related 
+- 
 - 💬 Talk to me about AWS, Linux, Devops  
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/fonjangclvois?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
